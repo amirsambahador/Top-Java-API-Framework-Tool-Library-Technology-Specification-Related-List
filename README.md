@@ -54,6 +54,7 @@
 - KeyCloak
 - Apache Shiro
 - JWT
+- Spring Security
 
 ### Java And DataBase:
 - JDBC
@@ -68,6 +69,8 @@
 - Spring Rest Data
 - Spring Mongo
 - Spring Elastic
+- FlyWay
+- Jooq
 
 ### DataBase Tools:
 - Navicat
@@ -143,6 +146,16 @@
 - Micro Profile
 - Cocoon
 - Velocity
+- Play
+- DropWizard
+- Thymeleaf
+- Freemarker
+- Blade
+- Spring Web Flux
+
+### Documentations:
+- JavaDOC
+- Swagger
 
 ### JavaScript:
 - ES6
@@ -177,6 +190,7 @@
 ### Build:
 - Maven
 - Ant
+- Gradle
 
 ### IDE:
 - IntelliJ
@@ -325,3 +339,42 @@
 - Quartz
 - Spring
 - EJB
+
+### Office and PDF:
+- Apache POI
+- iText
+
+### ByteCode:
+- ASM
+
+### For Create Compiler:
+- AntLR
+
+### Native Code:
+- JNA
+- JNI
+
+### Mapping:
+- JMapper
+- MapStruct
+- Orika
+- Dozer
+- ModelMapper
+
+### Code Generator
+- Lombok
+- JHipster
+
+### OSGI:
+- 
+
+### Gateway:
+- Zuul
+
+### Transaction:
+- Atomikos
+
+### Validation:
+- Oval
+
+
