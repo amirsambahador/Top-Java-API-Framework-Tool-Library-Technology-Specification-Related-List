@@ -310,7 +310,7 @@
 - EJB
 
 ### SMS:
--Java SMS
+- Java SMS
 
 ### Media:
--JMF
+- JMF
