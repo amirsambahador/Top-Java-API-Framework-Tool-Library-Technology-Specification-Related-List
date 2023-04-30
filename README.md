@@ -58,6 +58,7 @@
 - Batis
 - Spring Data
 - Drill
+- DBCP2
 
 ### DataBase Tools:
 - Navicat
@@ -206,3 +207,13 @@
 
 ### Windows:
 - Windows Server 2019
+
+### File:
+- MinIO
+
+### Log:
+- SLF4J
+- LOG4J2
+- Logstash
+
+### 
