@@ -94,10 +94,10 @@
 ### Android:
 - Android SDK
 
-### JavaCard
+### JavaCard:
 - Card Applet
 
-### JavaME
+### JavaME:
 - MIDlet
 
 ### Web:
@@ -191,7 +191,7 @@
 - OpenFeign
 - Spring Rest
 
-### Cloud:
+### Cloud Serivce:
 - Heroku
 - AWS
 - Azure
