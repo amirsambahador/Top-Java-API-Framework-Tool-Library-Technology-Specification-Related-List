@@ -111,7 +111,6 @@
 - Tiles Template Engine
 - Liferay And JSR168
 - DWR
-- Echo3
 - Wicket
 - JHipster
 - ADF
@@ -164,3 +163,17 @@
 - Groovy
 - Scala
 - Kotlin
+
+### Application Server:
+- Tomcat
+- TomEE
+- Weblogic
+- Open Liberty
+- Wildfly
+- JBossEA
+- Jetty
+- Resin
+- Payara
+- Glassfish
+- Jetty
+- JRun
