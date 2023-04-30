@@ -52,7 +52,7 @@
 - Studio3T
 - Kibana
 
-### Aechitecture:
+### Architecture:
 - MVC
 - MVP
 - CQRS
@@ -63,4 +63,16 @@
 - Event Sourcing
 - Test Driven
 - HMVC
+
+### BPMS:
+- jBPM
+- Activiti
+- Camunda
+
+### Message Service:
+- ActiveMQ
+- Artemis
+- Kafka
+- Axon
+
 
