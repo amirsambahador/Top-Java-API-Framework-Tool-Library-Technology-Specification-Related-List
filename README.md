@@ -314,3 +314,11 @@
 
 ### Media:
 - JMF
+
+### HTML:
+- JSoup
+
+### Scheduling:
+- Quartz
+- Spring
+- EJB
