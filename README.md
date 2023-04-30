@@ -365,9 +365,6 @@
 - Lombok
 - JHipster
 
-### OSGI:
-- 
-
 ### Gateway:
 - Zuul
 
@@ -377,4 +374,9 @@
 ### Validation:
 - Oval
 
+### Platform:
+- GraalVM
+
+### OSGI:
+- 
 
