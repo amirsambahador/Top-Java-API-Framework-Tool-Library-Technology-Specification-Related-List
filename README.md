@@ -3,58 +3,41 @@
 
 
 <b>Java2EE/J2EE/JavaEE/JakartaEE:</b>
+-JSP <br/>
+-Servlet <br/>
+-JSF <br/>
+-CDI <br/>
+-EJB <br/>
+-JPA <br/>
+-JTA <br/>
+-WebSocket <br/>
+-JSTL <br/>
+-JAX-RS <br/>
+-Security <br/>
 
--JSP
+<b>ORM:</b>
+-Hibernate <br/>
 
--Servlet
+<b>RDBMS:</b>
+-Oracle <br/>
+-DB2 <br/>
+-Postgres <br/>
+-MySQL <br/>
+-SQL Server <br/>
+-H2 <br/>
 
--JSF
+<b>NoSQL:</b>
+-OracleNoSQL <br/>
+-MongoDB <br/>
+-ElasticSearch <br/>
 
--CDI
+<b>DesktopApplication:</b>
+-Swing+AWT <br/>
+-JavaFX <br/>
 
--EJB
-
--JPA
-
--JTA
-
--WebSocket
-
--JSTL
-
--JAX-RS
-
--Security
-
-ORM:
-
--Hibernate
-
-#RDBMS:
--Oracle
-
--DB2
-
--Postgres
-
--MySQL
-
--SQL Server
-
--H2
-
-NoSQL:
--OracleNoSQL
--MongoDB
--ElasticSearch
-
-DesktopApplication:
--Swing+AWT
--JavaFX
-
-Security:
--KeyCloak
--Apache Shiro
+<b>Security:</b>
+-KeyCloak <br/>
+-Apache Shiro <br/>
 
 
 
