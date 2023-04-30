@@ -4,6 +4,7 @@
 
 Java2EE/J2EE/JavaEE/JakartaEE:
 -JSP
+<br/>
 -Servlet
 -JSF
 -CDI
