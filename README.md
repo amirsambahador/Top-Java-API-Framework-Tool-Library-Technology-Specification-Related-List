@@ -1,4 +1,4 @@
-# Top Java API, Framework, Tools, Library, Technology, Specification List;
+# Top Java API, Framework, Tool, Library, Technology, Specification List;
 
 ### Java2SEE/J2SE/JavaSE:
 - Core
