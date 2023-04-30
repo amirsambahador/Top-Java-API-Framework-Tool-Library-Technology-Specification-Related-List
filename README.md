@@ -52,3 +52,15 @@
 - Studio3T
 - Kibana
 
+### Aechitecture:
+- MVC
+- MVP
+- CQRS
+- Event Driven
+- Domain Driven
+- Service Oriented
+- Micro Service
+- Event Sourcing
+- Test Driven
+- HMVC
+
