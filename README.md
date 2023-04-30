@@ -93,6 +93,7 @@
 - Aspect Oriented Programming
 - Relection
 - Functional Programming
+- RPC
 
 ### BPMS:
 - jBPM
@@ -121,7 +122,8 @@
 - RichFaces
 - IceFaces
 - Struts
-- Spring Web MVC
+- Spring Framework
+- Spring BOOT
 - Tapestry
 - GWT
 - Vaadin
@@ -136,6 +138,8 @@
 - Micronaut
 - Quarkus
 - Micro Profile
+- Cocoon
+- Velocity
 
 ### JavaScript:
 - ES6
@@ -250,15 +254,63 @@
 ### CICD:
 - Jenkins
 
-### Report
+### Report:
 - Jasper Report
 - JFree Chart
 - Dynamic Report
+- Birt
 
 ### Content:
 - Tika
 
-### Search
+### Search:
 - Solr
 - Apache Lucene
 
+### SOAP:
+- Axis
+
+### Big Data:
+- Spark
+- Drill
+- Hadoop
+- Hive
+- Elastic
+
+### Cache:
+- EH Cache
+- Caffeine
+- Hibernate Second Level Cache
+- Redis
+
+### JSON:
+- Gson
+- Jackson
+- JSON Simple
+
+### gRPC:
+- Java gRPC
+
+### Rest:
+- Spring BOOT
+- Jersey
+- Easy Rest
+
+### DI:
+- Spring IOC
+- EJB
+- Weld
+- Dagger
+- Guice
+
+### AOP:
+- AspectJ
+- Spring AOP
+- Spring AspectJ
+- EJB
+
+### SMS:
+-Java SMS
+
+### Media:
+-JMF
