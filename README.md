@@ -108,8 +108,8 @@
 - GWT
 - Vaadin
 - ZK
-- Shine
 - Tiles Template Engine
+- 
 
 ### JavaScript:
 - ES6
@@ -117,6 +117,18 @@
 - React
 - Vue
 - Nuxt
+- JQuery
+- JS Modern Features
+
+### AI:
+- Neuroph
+- Weka
+- DL4J
+- Java CV
+- OpenImaj
+- Tess4j
+- Apache NLP
+- Sphinx
 
 ### Test and Monitor:
 - JUnit
