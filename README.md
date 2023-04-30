@@ -10,6 +10,9 @@
 - Thread
 - File
 - Exception
+- Java Net
+- Java IO
+- Java NIO
 
 ### Java2EE/J2EE/JavaEE/JakartaEE:
 - JSP
@@ -177,3 +180,13 @@
 - Glassfish
 - Jetty
 - JRun
+
+### Load Blancer:
+- Zookeeper
+- NGINX
+- Docker Swarm
+- Eureka
+
+### Http Client:
+- OpenFeign
+- Spring Rest
