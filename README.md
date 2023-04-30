@@ -109,7 +109,12 @@
 - Vaadin
 - ZK
 - Tiles Template Engine
-- 
+- Liferay And JSR168
+- DWR
+- Echo3
+- Wicket
+- JHipster
+- ADF
 
 ### JavaScript:
 - ES6
