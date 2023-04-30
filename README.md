@@ -1,4 +1,4 @@
-# Top Java API, Framework, Tool, Library, Technology, Specification List;
+# Top Java Full Stack Roadmap: API, Framework, Tool, Library, Technology, Specification,...;
 
 ### Java2SEE/J2SE/JavaSE:
 - Core
@@ -26,6 +26,7 @@
 - JSTL
 - JAX-RS
 - Security
+- JMS
 
 ### ORM:
 - Hibernate
@@ -61,11 +62,21 @@
 - Drill
 - DBCP2
 - ORDS
+- C3P0
+- Hikari
+- JNOSQL
 
 ### DataBase Tools:
 - Navicat
 - Studio3T
 - Kibana
+- SQL Developer
+- PLSQL Developer
+
+### DataBase Language:
+- SQL
+- PLSQL
+- SQLJ
 
 ### Architecture and Concept:
 - MVC
@@ -93,6 +104,7 @@
 - Artemis
 - Kafka
 - Axon
+- RabbitMQ
 
 ### Android:
 - Android SDK
@@ -120,6 +132,10 @@
 - Wicket
 - JHipster
 - ADF
+- Vert.X
+- Micronaut
+- Quarkus
+- Micro Profile
 
 ### JavaScript:
 - ES6
@@ -218,4 +234,31 @@
 - LOG4J2
 - Logstash
 
-### 
+### CSS:
+- Bootstrap
+- BulmaCSS
+
+### Version Control:
+- Git
+- SVN
+
+### Version Control Free Host:
+- SourceForge
+- GitHub
+- Google Code
+
+### CICD:
+- Jenkins
+
+### Report
+- Jasper Report
+- JFree Chart
+- Dynamic Report
+
+### Content:
+- Tika
+
+### Search
+- Solr
+- Apache Lucene
+
