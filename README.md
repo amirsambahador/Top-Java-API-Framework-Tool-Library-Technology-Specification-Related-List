@@ -190,3 +190,19 @@
 ### Http Client:
 - OpenFeign
 - Spring Rest
+
+### Cloud:
+- Heroku
+- AWS
+- Azure
+- Google Cloud
+
+### Container:
+- Docker Engine + Docker Compose
+
+### Linux:
+- Oracle Linux
+- Debian
+
+### Windows:
+- Windows Server 2019
