@@ -2,29 +2,29 @@
 
 
 
-<b>Java2EE/J2EE/JavaEE/JakartaEE:</b> <br/>
--JSP <br/>
--Servlet <br/>
--JSF <br/>
--CDI <br/>
--EJB <br/>
--JPA <br/>
--JTA <br/>
--WebSocket <br/>
--JSTL <br/>
--JAX-RS <br/>
--Security <br/>
+### Java2EE/J2EE/JavaEE/JakartaEE:
+- JSP
+- Servlet
+- JSF
+- CDI
+- EJB
+- JPA
+- JTA
+- Web Socket
+- JSTL
+- JAX-RS
+- Security
 
-<b>ORM:</b> <br/>
--Hibernate <br/>
+### ORM:
+- Hibernate
 
-<b>RDBMS:</b> <br/>
--Oracle <br/>
--DB2 <br/>
--Postgres <br/>
--MySQL <br/>
--SQL Server <br/>
--H2 <br/>
+### RDBMS:
+- Oracle
+- DB2
+- Postgres
+- MySQL 
+- SQL Server
+- H2
 
 <b>NoSQL:</b> <br/>
 -OracleNoSQL <br/>
