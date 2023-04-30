@@ -378,5 +378,5 @@
 - GraalVM
 
 ### OSGI:
-- 
-
+- Spring DM
+- Knopflerfish
