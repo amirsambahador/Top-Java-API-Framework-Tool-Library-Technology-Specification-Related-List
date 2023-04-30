@@ -92,8 +92,31 @@
 - Android SDK
 
 ### JavaCard
-
+- Card Applet
 
 ### JavaME
+- MIDlet
 
+### Web:
+- Java Web Applet
+- Primefaces
+- RichFaces
+- IceFaces
+- Struts
+- Spring Web MVC
+- Tapestry
+- GWT
+- Vaadin
+- ZK
+- Shine
+- Tiles Template Engine
 
+### JS:
+- ES6
+- Angular
+- React
+- Vue
+- Nuxt
+
+### WAP:
+- WMLScript
