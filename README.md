@@ -2,7 +2,7 @@
 
 
 
-Java2EE/J2EE/JavaEE/JakartaEE:
+<b>Java2EE/J2EE/JavaEE/JakartaEE:</b>
 
 -JSP
 
