@@ -2,7 +2,7 @@
 
 
 
-<b>Java2EE/J2EE/JavaEE/JakartaEE:</b>
+<b>Java2EE/J2EE/JavaEE/JakartaEE:</b> <br/>
 -JSP <br/>
 -Servlet <br/>
 -JSF <br/>
@@ -15,10 +15,10 @@
 -JAX-RS <br/>
 -Security <br/>
 
-<b>ORM:</b>
+<b>ORM:</b> <br/>
 -Hibernate <br/>
 
-<b>RDBMS:</b>
+<b>RDBMS:</b> <br/>
 -Oracle <br/>
 -DB2 <br/>
 -Postgres <br/>
@@ -26,16 +26,16 @@
 -SQL Server <br/>
 -H2 <br/>
 
-<b>NoSQL:</b>
+<b>NoSQL:</b> <br/>
 -OracleNoSQL <br/>
 -MongoDB <br/>
 -ElasticSearch <br/>
 
-<b>DesktopApplication:</b>
+<b>DesktopApplication:</b> <br/>
 -Swing+AWT <br/>
 -JavaFX <br/>
 
-<b>Security:</b>
+<b>Security:</b> <br/>
 -KeyCloak <br/>
 -Apache Shiro <br/>
 
