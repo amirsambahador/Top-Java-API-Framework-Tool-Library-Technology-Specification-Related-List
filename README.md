@@ -26,25 +26,24 @@
 - SQL Server
 - H2
 
-<b>NoSQL:</b> <br/>
--OracleNoSQL <br/>
--MongoDB <br/>
--ElasticSearch <br/>
+### No SQL:
+- Oracle No SQL
+- MongoDB
+- ElasticSearch
 
-<b>DesktopApplication:</b> <br/>
--Swing+AWT <br/>
--JavaFX <br/>
+### Desktop Application:
+- Swing+AWT
+- JavaFX
+- QT Jambi
 
-<b>Security:</b> <br/>
--KeyCloak <br/>
--Apache Shiro <br/>
+### Security:
+- KeyCloak
+- Apache Shiro
+- JWT
 
-<b>JavaDataBase:</b> <br/>
--JDBC <br/>
--Batis <br/>
--Spring Data <br/>
-
-### Code Analysis
-
-- Static analysis of coding conventions and standards. (LGPL-2.1-or-later)
+### Java DataBase Tools:
+- JDBC
+- Batis
+- Spring Data
+- Drill
 
