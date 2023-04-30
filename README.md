@@ -46,7 +46,5 @@
 
 ### Code Analysis
 
-_Tools that provide metrics and quality measurements._
-
-- - Static analysis of coding conventions and standards. (LGPL-2.1-or-later)
+- Static analysis of coding conventions and standards. (LGPL-2.1-or-later)
 
