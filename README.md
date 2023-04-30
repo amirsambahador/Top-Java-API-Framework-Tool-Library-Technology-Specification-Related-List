@@ -29,6 +29,7 @@
 
 ### ORM:
 - Hibernate
+- EclipseLink
 
 ### RDBMS:
 - Oracle
@@ -59,6 +60,7 @@
 - Spring Data
 - Drill
 - DBCP2
+- ORDS
 
 ### DataBase Tools:
 - Navicat
