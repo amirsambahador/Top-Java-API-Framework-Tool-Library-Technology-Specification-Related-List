@@ -111,7 +111,7 @@
 - Shine
 - Tiles Template Engine
 
-### JS:
+### JavaScript:
 - ES6
 - Angular
 - React
