@@ -1,6 +1,15 @@
 # Top Java API, Framework, Tools, Library, Technology, Specification List;
 
-
+### Java2SEE/J2SE/JavaSE:
+- Core
+- RMI
+- Corba
+- XML
+- Serialization
+- Util
+- Thread
+- File
+- Exception
 
 ### Java2EE/J2EE/JavaEE/JakartaEE:
 - JSP
@@ -52,7 +61,7 @@
 - Studio3T
 - Kibana
 
-### Architecture:
+### Architecture and Concept:
 - MVC
 - MVP
 - CQRS
@@ -63,6 +72,10 @@
 - Event Sourcing
 - Test Driven
 - HMVC
+- Object Oriented Programming
+- Aspect Oriented Programming
+- Relection
+- Functional Programming
 
 ### BPMS:
 - jBPM
@@ -74,5 +87,13 @@
 - Artemis
 - Kafka
 - Axon
+
+### Android:
+- Android SDK
+
+### JavaCard
+
+
+### JavaME
 
 
