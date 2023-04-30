@@ -4,7 +4,6 @@
 
 Java2EE/J2EE/JavaEE/JakartaEE:
 -JSP
-<br/>
 -Servlet
 -JSF
 -CDI
@@ -17,6 +16,7 @@ Java2EE/J2EE/JavaEE/JakartaEE:
 -Security
 
 ORM:
+
 -Hibernate
 
 RDBMS:
