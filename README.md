@@ -212,7 +212,7 @@
 
 ### Http Client:
 - OpenFeign
-- Spring Rest
+- Spring Rest Client
 
 ### Cloud Serivce:
 - Heroku
