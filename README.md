@@ -65,6 +65,9 @@
 - C3P0
 - Hikari
 - JNOSQL
+- Spring Rest Data
+- Spring Mongo
+- Spring Elastic
 
 ### DataBase Tools:
 - Navicat
@@ -292,7 +295,7 @@
 - Java gRPC
 
 ### Rest:
-- Spring BOOT
+- Spring Rest
 - Jersey
 - Easy Rest
 
