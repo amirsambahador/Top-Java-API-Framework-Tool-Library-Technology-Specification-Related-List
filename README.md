@@ -118,5 +118,13 @@
 - Vue
 - Nuxt
 
+### Test and Monitor:
+- JUnit
+- JMeter
+- Mockito
+- Selenium
+- Elastic Stack
+- JVVM
+
 ### WAP:
 - WMLScript
