@@ -111,7 +111,7 @@
 - HMVC
 - Object Oriented Programming
 - Aspect Oriented Programming
-- Relection
+- Reflection
 - Functional Programming
 - RPC
 
