@@ -33,8 +33,10 @@
 - Security
 - JMS
 - JNDI
-- JMail
+- Java Mail
 - SOAP Web Service
+- Java XML
+- Java JSON
 
 ### ORM:
 - Hibernate
