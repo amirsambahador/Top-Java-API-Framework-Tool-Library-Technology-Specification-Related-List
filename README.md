@@ -72,7 +72,7 @@
 - DBCP2
 - ORDS
 - C3P0
-- Hikari
+- HikariCP
 - JNOSQL
 - Spring Rest Data
 - Spring Mongo
