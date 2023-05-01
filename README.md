@@ -461,6 +461,6 @@
 - Java 17
 - Java 21
 
-### Dynamic Development
+### Dynamic Runtime Development:
 - Reflection
 - Javassist
