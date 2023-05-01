@@ -157,7 +157,7 @@
 - Spring Web Flux
 
 ### Documentation and Declaration:
-- JavaDOC
+- Java Doc
 - Swagger
 
 ### JavaScript:
