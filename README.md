@@ -397,7 +397,7 @@
 ### Gateway:
 - Zuul
 
-### Transaction:
+### Distributed Transaction:
 - Atomikos
 
 ### Validation:
