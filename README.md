@@ -39,7 +39,7 @@
 - Top Link
 
 ### RDBMS:
-- Oracle
+- Oracle 21c
 - DB2
 - Postgres
 - MySQL 
@@ -446,3 +446,9 @@
 ### Common:
 - Google Guava
 - Apache Common
+
+### Java LTS Version:
+- Java 8
+- Java 11
+- Java 17
+- Java 21
