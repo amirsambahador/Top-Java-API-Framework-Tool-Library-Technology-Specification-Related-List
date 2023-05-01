@@ -233,7 +233,7 @@
 - Jetty
 - JRun
 
-### Load Blancer:
+### Load Balancer:
 - Zookeeper
 - NGINX
 - Docker Swarm
@@ -259,7 +259,8 @@
 ### Windows:
 - Windows Server 2019
 
-### File:
+### File and Cloud:
+- Google Drive
 - MinIO
 
 ### Log:
