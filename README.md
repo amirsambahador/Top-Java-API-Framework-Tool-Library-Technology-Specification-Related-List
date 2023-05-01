@@ -15,7 +15,6 @@
 - NIO
 - JNDI
 - Socket Programming
-- OOP
 - Functional Programming
 - JDBC
 
