@@ -459,3 +459,7 @@
 - Java 11
 - Java 17
 - Java 21
+
+### Dynamic Development
+- Reflection
+- Javassist
