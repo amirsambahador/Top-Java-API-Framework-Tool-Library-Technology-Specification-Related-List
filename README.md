@@ -1,4 +1,4 @@
-# Top Java Full Stack Roadmap: API, Framework, Tool, Library, Technology, Specification,...;
+# Top Java Full Stack Roadmap: API, Framework, Tool, Library, Technology, Specification and... ;
 
 ### Java2SEE/J2SE/JavaSE:
 - Core
@@ -10,9 +10,10 @@
 - Thread
 - File
 - Exception
-- Java Net
-- Java IO
-- Java NIO
+- Net
+- IO
+- NIO
+- JNDI
 
 ### Java2EE/J2EE/JavaEE/JakartaEE:
 - JSP
@@ -27,6 +28,7 @@
 - JAX-RS
 - Security
 - JMS
+- JNDI
 
 ### ORM:
 - Hibernate
@@ -60,7 +62,7 @@
 - JDBC
 - Batis
 - Spring Data
-- Drill
+- Apache Drill
 - DBCP2
 - ORDS
 - C3P0
@@ -71,6 +73,7 @@
 - Spring Elastic
 - FlyWay
 - Jooq
+- R2DBC
 
 ### DataBase Tools:
 - Navicat
@@ -123,7 +126,7 @@
 - MIDlet
 
 ### Web:
-- Java Web Applet
+- Web Applet
 - Primefaces
 - RichFaces
 - IceFaces
@@ -153,7 +156,7 @@
 - Blade
 - Spring Web Flux
 
-### Documentations:
+### Documentation and Declaration:
 - JavaDOC
 - Swagger
 
@@ -183,6 +186,7 @@
 - Selenium
 - Elastic Stack
 - JVVM
+- GlowROOT
 
 ### WAP:
 - WMLScript
@@ -238,7 +242,7 @@
 - Google Cloud
 
 ### Container:
-- Docker Engine + Docker Compose
+- Dcoker Product (Docker Engine + Docker Compose + Docker Swarm)
 
 ### Linux:
 - Oracle Linux
@@ -268,7 +272,7 @@
 - GitHub
 - Google Code
 
-### CICD:
+### CI/CD:
 - Jenkins
 
 ### Report:
@@ -285,7 +289,7 @@
 - Apache Lucene
 
 ### SOAP:
-- Axis
+- Apache Axis
 
 ### Big Data:
 - Spark
