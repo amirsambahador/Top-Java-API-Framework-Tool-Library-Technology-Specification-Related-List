@@ -170,6 +170,7 @@
 - Vue
 - Nuxt
 - JQuery
+- NodeJS
 - JS Modern Features
 
 ### AI:
@@ -395,3 +396,11 @@
 
 ### Virtualization:
 - VMWare
+
+### Modeling Language:
+- UML
+
+### Software Development and Project Management:
+- RUP
+- AUP
+- Agile (Scrum, XP)
