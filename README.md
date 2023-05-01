@@ -437,10 +437,10 @@
 - Mule
 
 ### Web Security Basic Concept:
-- SQL Injection Protection
+- SQL Injection Prevention
 - Authentication And Authorize
-- XSS Attack Protection
-- Session Hijack Protection
+- XSS Attack Prevention
+- Session Hijack Prevention
 - Cryptography
 - Hashing (MD5 And SHA2)
 - Encryption (RSA And AES)
