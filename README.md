@@ -1,6 +1,6 @@
 # Top Java Full Stack Roadmap: API, Framework, Tool, Library, Technology, Specification, Related Tool and...
 
-### Java2SEE/J2SE/JavaSE:
+### Java2SE/J2SE/JavaSE:
 - Core
 - RMI
 - Corba
