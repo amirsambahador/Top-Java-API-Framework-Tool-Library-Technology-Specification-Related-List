@@ -31,10 +31,12 @@
 - JMS
 - JNDI
 - JMail
+- SOAP Web Service
 
 ### ORM:
 - Hibernate
 - EclipseLink
+- Top Link
 
 ### RDBMS:
 - Oracle
@@ -51,6 +53,7 @@
 
 ### Desktop Application:
 - Swing+AWT
+- SWT
 - JavaFX
 - QT Jambi
 
@@ -59,6 +62,7 @@
 - Apache Shiro
 - JWT
 - Spring Security
+- Java EE Security
 
 ### Java And DataBase:
 - JDBC
@@ -266,6 +270,10 @@
 ### CSS:
 - Bootstrap
 - BulmaCSS
+- JQuery UI
+- ExtJS
+- W2UI
+- Qooxdoo
 
 ### Version Control:
 - Git
@@ -387,6 +395,7 @@
 ### OSGI:
 - Spring DM
 - Knopflerfish
+- Equinox
 
 ### XML:
 - JDOM
@@ -404,3 +413,22 @@
 - RUP
 - AUP
 - Agile (Scrum, XP)
+
+### Transaction Management:
+- JTA
+- Spring TX
+
+### ESB:
+- Mule
+
+### Security Concept:
+- SQL Injection Protection
+- Authentication And Authorize
+- XSS Attack Protection
+- Session Hijack Protection
+- Cryptography
+- Hashing (MD5 And SHA2)
+- Encryption (RSA And AES)
+- Web Fire Wall
+- Token
+- Https And SSL
