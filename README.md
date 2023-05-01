@@ -134,12 +134,18 @@
 
 ### Web:
 - Web Applet
-- Primefaces
-- RichFaces
-- IceFaces
-- Struts
-- Spring Framework
-- Spring BOOT
+- JSP
+- Servlet
+- JSP + JSTL
+- JSF
+- JSF + Primefaces
+- JSF + RichFaces
+- JSF + IceFaces
+- JAX-RS + Jersey Impl
+- Struts 1
+- Struts 2 + OGNL
+- Spring Web MVC Framework
+- Spring BOOT + Spring Web
 - Tapestry
 - GWT
 - Vaadin
@@ -250,7 +256,7 @@
 - Google Cloud
 
 ### Container:
-- Dcoker Product (Docker Engine + Docker Compose + Docker Swarm)
+- Docker Product (Docker Engine + Docker Compose + Docker Swarm)
 
 ### Linux:
 - Oracle Linux
