@@ -15,6 +15,9 @@
 - NIO
 - JNDI
 - Socket Programming
+- OOP
+- Functional Programming
+- JDBC
 
 ### Java2EE/J2EE/JavaEE/JakartaEE:
 - JSP
