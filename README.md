@@ -301,7 +301,6 @@
 ### Cache:
 - EH Cache
 - Caffeine
-- Hibernate Second Level Cache
 - Redis
 
 ### JSON:
