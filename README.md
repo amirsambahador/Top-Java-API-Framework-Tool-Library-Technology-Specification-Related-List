@@ -14,6 +14,7 @@
 - IO
 - NIO
 - JNDI
+- Socket Programming
 
 ### Java2EE/J2EE/JavaEE/JakartaEE:
 - JSP
@@ -29,6 +30,7 @@
 - Security
 - JMS
 - JNDI
+- JMail
 
 ### ORM:
 - Hibernate
@@ -93,6 +95,7 @@
 - CQRS
 - Event Driven
 - Domain Driven
+- BDD
 - Service Oriented
 - Micro Service
 - Event Sourcing
@@ -383,3 +386,12 @@
 ### OSGI:
 - Spring DM
 - Knopflerfish
+
+### XML:
+- JDOM
+
+### Issue & Project Tracking:
+- JIRA
+
+### Virtualization:
+- VMWare
