@@ -422,6 +422,7 @@
 
 ### Modeling Language:
 - UML
+- ERD
 
 ### Software Development and Project Management:
 - RUP
