@@ -38,6 +38,10 @@
 - EclipseLink
 - Top Link
 
+### ORM Language:
+- HQL
+- JPQL
+
 ### RDBMS:
 - Oracle 21c
 - DB2
@@ -60,11 +64,11 @@
 ### Security:
 - KeyCloak
 - Apache Shiro
-- JWT
+- Java JWT
 - Spring Security
 - Java EE Security
 
-### Java And DataBase:
+### Java And DataBase Tools:
 - JDBC
 - Batis
 - Spring Data
@@ -73,7 +77,7 @@
 - ORDS
 - C3P0
 - HikariCP
-- JNOSQL
+- JNoSQL
 - Spring Rest Data
 - Spring Mongo
 - Spring Elastic
@@ -116,7 +120,7 @@
 - Activiti
 - Camunda
 
-### Message Service:
+### Message:
 - ActiveMQ
 - Artemis
 - Kafka
@@ -132,7 +136,7 @@
 ### JavaME:
 - MIDlet
 
-### Web:
+### Web and Template (MicroService and Enterprise):
 - Web Applet
 - JSP
 - Servlet
@@ -173,7 +177,7 @@
 - Java Doc
 - Swagger
 
-### JavaScript:
+### JavaScript and Concept:
 - ES6
 - Angular
 - React
@@ -183,7 +187,7 @@
 - NodeJS
 - JS Modern Features
 
-### AI:
+### AI, Deep Learning, Machine Learning:
 - Neuroph
 - Weka
 - DL4J
@@ -210,7 +214,7 @@
 - Ant
 - Gradle
 
-### IDE:
+### IDE and Editor:
 - IntelliJ
 - JDeveloper
 - Sun Studio Creator
@@ -239,7 +243,7 @@
 - Jetty
 - JRun
 
-### Load Balancer:
+### Load Balancer and Service Discovery:
 - Zookeeper
 - NGINX
 - Docker Swarm
@@ -311,8 +315,8 @@
 - Apache Axis
 
 ### Big Data:
-- Spark
-- Drill
+- Apache Spark
+- Apache Drill
 - Hadoop
 - Hive
 - Elastic
