@@ -245,7 +245,6 @@
 - Resin
 - Payara
 - Glassfish
-- Jetty
 - JRun
 
 ### Load Balancer and Service Discovery:
